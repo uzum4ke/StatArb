@@ -1,4 +1,4 @@
-# Pairs Trader
+# Statistical Arbitrage Bot
 
 This is a statistical arbitrage bot created to trade forex pairs through the MetaTrader 5 API. 
 
